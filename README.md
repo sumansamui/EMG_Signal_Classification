@@ -1,5 +1,5 @@
 
-# Project: Upper limb position-invariant EMG signal classification
+## Project: Upper limb position-invariant EMG signal classification
 
 The classification of Electromyogram (EMG) signal is an important task for various applications such as clinical diagnosis, Human-Computer Interaction (HCI) systems for prosthetic devices,myoelectric controllers used in wireless controlling devices such as video game controller and security check-in for authorized access. The vital research aspects in this field mainly focus on data acquisition, pre-processing, feature extraction and classifica-tion along with their feasibility in practical scenarios regarding implementation and reliability. We developed multiclass classification system for EMG signal using standard classifiers (Logistic Regression, SVM, Random Forrest, Extra Tree classifier) and also using their different ensembles . In our analysis, we have used a dataset consisting of the sEMG signals collected from eleven subjects at five different upper limb positions. [reference link][paper1].
 
