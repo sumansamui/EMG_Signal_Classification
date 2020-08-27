@@ -56,7 +56,7 @@ In our analysis, we have used a dataset consisting of the sEMG signals collected
 
 ### The performance of these models on test-set1 and test-set2 are as follows:
 
-![emg2](images\emg2.png) 
+<img src="/images/emg2.png" width="800" />
 
 
 ## Last Task to be done: 
