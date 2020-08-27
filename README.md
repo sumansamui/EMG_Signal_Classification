@@ -5,7 +5,7 @@ The classification of Electromyogram (EMG) signal is an important task for vario
 In our analysis, we have used a dataset consisting of the sEMG signals collected from eleven subjects at five different upper limb positions. [reference link][paper1].
 
 
-<img src="/images/emg1.png" width="800" />
+<img src="/images/emg1.png" width="600" />
 
 
 
