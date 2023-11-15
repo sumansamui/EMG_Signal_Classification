@@ -58,14 +58,6 @@ The classification of Electromyogram (EMG) signal is an important task for vario
 <img src="/images/emg2.png" width="600" />
 
 
-## Last Task to be done: 
-
-* Develop a XGBoost classifier for this task. (https://xgboost.readthedocs.io/en/latest/)
-
-* Develop a stacking ensemble model (Meta Learner) using the four baseline models (stored in the .../models/.. folder) 
-
-* For more details, check the task.pdf file in the repository.
-
 
 ## Want to install this project on your own machine?
 
