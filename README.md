@@ -73,10 +73,11 @@ Next, clone this project by opening a terminal and typing the following commands
 
 ## References:
 
-1. Mukhopadhyay, Anand Kumar, and Suman Samui. "An experimental study on upper limb position invariant EMG signal classification based on deep neural network." Biomedical Signal Processing and Control 55 (2020): 101669
+1. Anand Kumar Mukhopadhyay and Suman Samui. "An experimental study on upper limb position invariant EMG signal classification based on deep neural network." Biomedical Signal Processing and Control 55 (2020): 101669
 
 [paper1]:https://www.sciencedirect.com/science/article/abs/pii/S1746809419302502
 
+2. A. A. Shaikh, A. K. Mukhopadhyay, S. Poddar and S. Samui, "Towards Robust and Accurate Myoelectric Controller Design based on Multi-objective Optimization using Evolutionary Computation," in IEEE Sensors Journal, doi: 10.1109/JSEN.2023.3347949.
 
 2. R.N. Khushaba, M. Takruri, J.V. Miro, S. Kodagoda, Towards limb positioninvariant myoelectric pattern recognition using time-dependent spectral features, Neural Netw. 55 (2014) 42–58.
 
